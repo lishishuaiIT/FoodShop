@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="easymall-img-microservice" />
+        <module name="orders-addfood-back" />
+        <module name="orders-sort" />
+        <module name="orders-user" />
+        <module name="easymall-common-redis" />
+        <module name="orders-cart" />
+        <module name="eureka-client01" />
+        <module name="orders-search" />
+        <module name="orders-common" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="easymall-common-redis" target="1.6" />
+      <module name="easymall-img-microservice" target="1.6" />
+      <module name="easymall-parent (1)" target="1.6" />
+      <module name="easymall-parent (2)" target="1.8" />
+      <module name="eureka-client01" target="1.6" />
+      <module name="orders-addfood-back" target="1.6" />
+      <module name="orders-cart" target="1.6" />
+      <module name="orders-common" target="1.8" />
+      <module name="orders-search" target="1.6" />
+      <module name="orders-sort" target="1.6" />
+      <module name="orders-user" target="1.6" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

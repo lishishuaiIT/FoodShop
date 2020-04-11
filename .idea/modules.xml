@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/code.iml" filepath="$PROJECT_DIR$/.idea/code.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easymall-common-redis/easymall-common-redis.iml" filepath="$PROJECT_DIR$/easymall-common-redis/easymall-common-redis.iml" />
+      <module fileurl="file://$PROJECT_DIR$/food-img/easymall-img-microservice.iml" filepath="$PROJECT_DIR$/food-img/easymall-img-microservice.iml" />
+      <module fileurl="file://$PROJECT_DIR$/easymall-parent/easymall-parent (1).iml" filepath="$PROJECT_DIR$/easymall-parent/easymall-parent (1).iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud-parent/easymall-parent (2).iml" filepath="$PROJECT_DIR$/springcloud-parent/easymall-parent (2).iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-orders/eureka-client01.iml" filepath="$PROJECT_DIR$/zuul-orders/eureka-client01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-addfood-back/orders-addfood-back.iml" filepath="$PROJECT_DIR$/orders-addfood-back/orders-addfood-back.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-cart/orders-cart.iml" filepath="$PROJECT_DIR$/orders-cart/orders-cart.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-common/orders-common.iml" filepath="$PROJECT_DIR$/orders-common/orders-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-search/orders-search.iml" filepath="$PROJECT_DIR$/orders-search/orders-search.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-sort/orders-sort.iml" filepath="$PROJECT_DIR$/orders-sort/orders-sort.iml" />
+      <module fileurl="file://$PROJECT_DIR$/orders-user/orders-user.iml" filepath="$PROJECT_DIR$/orders-user/orders-user.iml" />
+    </modules>
+  </component>
+</project>

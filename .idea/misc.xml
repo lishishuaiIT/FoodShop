@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/zuul-orders/pom.xml" />
+        <option value="$PROJECT_DIR$/springcloud-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/orders-user/pom.xml" />
+        <option value="$PROJECT_DIR$/orders-sort/pom.xml" />
+        <option value="$PROJECT_DIR$/orders-search/pom.xml" />
+        <option value="$PROJECT_DIR$/orders-common/pom.xml" />
+        <option value="$PROJECT_DIR$/orders-cart/pom.xml" />
+        <option value="$PROJECT_DIR$/orders-addfood-back/pom.xml" />
+        <option value="$PROJECT_DIR$/food-img/pom.xml" />
+        <option value="$PROJECT_DIR$/easymall-parent/pom.xml" />
+        <option value="$PROJECT_DIR$/easymall-common-redis/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>

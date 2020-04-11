@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE mapper PUBLIC "-//mybatis.org//DTD Mapper 3.0//EN"
+"http://mybatis.org/dtd/mybatis-3-mapper.dtd">
+<mapper namespace="cn.tedu.mapper.FoodMapper">
+	<insert id="addFood">
+		insert into food(id,name,img,price,classify,effect) 
+		values(#{id},#{name},#{img},#{price},#{classify},#{effect});
+	</insert>
+	
+	<select id="queryAll" resultType="Food">
+		select * from food;
+	</select>
+	
+	<delete id="delFood">
+		delete from food where id=#{id};
+	</delete>
+	
+	<select id="queryOne" resultType="Food">
+		select * from food where id=#{id};
+	</select>
+	
+	<update id="update">
+		update food set name=#{name}, img=#{img}, price=#{price},classify=#{classify} ,effect=#{effect} where id=#{id};
+	</update>
+	
+	<select id="query_1" resultType="Food">
+		select * from food where classify=#{classify};
+	</select>
+	
+	<select id="queryOneByName" resultType="Food">
+		select * from food where name=#{name};
+	</select>
+</mapper>
